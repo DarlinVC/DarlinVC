@@ -1,4 +1,4 @@
-<p align="center">Hi there 👋, i `m Darlin VC</p>
+<h3 align="center">Hi there 👋, i `m Darlin VC</h3>
 <p align="center">Full Stack Javascript Developer</p>
 
 - 🔭 I’m currently working on ...
