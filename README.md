@@ -1,4 +1,5 @@
-### Hi there 👋, i `m Darlin VC, Full Stack Javascript Developer
+<p align="center">Hi there 👋, i `m Darlin VC</p>
+<p align="center">Full Stack Javascript Developer</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
