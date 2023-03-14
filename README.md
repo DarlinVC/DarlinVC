@@ -4,7 +4,7 @@
 <h3>Skills</h3>
 <div style="display:flex; flex-direction: row;">
 <img src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png" width="60" heigth="60">
-<img src="https://styles.redditmedia.com/t5_2v6gg/styles/communityIcon_4w7vh6c21f871.png" width="60" heigth="60">
+<img src="https://styles.redditmedia.com/t5_2v6gg/styles/communityIcon_4w7vh6c21f871.png" width="40" heigth="40">
 </div>
 
 
