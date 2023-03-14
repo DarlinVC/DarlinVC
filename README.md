@@ -11,6 +11,6 @@
  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="30" heigth="30">
 </div>
 
-<h4>And others as express and socket.io</h4>
+<h4>And others, including express and socket.io</h4>
 
 <h4 >Working on a chat application, with users, with some innovations. Soon first demo with all the details.</h4>
