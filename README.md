@@ -3,7 +3,7 @@
 
 <h3>Skills</h3>
 <div style="display:flex; flex-direction: row;">
-<img src="https://www.flaticon.com/free-icons/javascript">
+<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Freepik - Flaticon</a>
 </div>
 
 
