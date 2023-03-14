@@ -3,7 +3,8 @@
 
 <h3>Skills</h3>
 <div style="display:flex; flex-direction: row;">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" heigth="60">
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="60" heigth="60">
 </div>
 
 
