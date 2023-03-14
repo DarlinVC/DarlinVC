@@ -10,6 +10,7 @@
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="30" heigth="30">
  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" width="30" heigth="30">
  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="30" heigth="30">
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30" heigth="30">
 </div>
 
 <h4>And others, including express, socket.io, MongoDB, SQLServer and MySql.</h4>
