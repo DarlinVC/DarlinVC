@@ -19,4 +19,4 @@
 <h4>Tensorflow.js</h4>
 <h4>Advance English</h4>
 <br>
-<h4 >Working on a chat application, with users, with some innovations. Soon first demo with all the details.</h4>
+<h4 >Working on a chat application, with users, with some innovations. Soon first demo with all the details. Using Angular +12 and NodeJS</h4>
