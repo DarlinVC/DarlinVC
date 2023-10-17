@@ -13,7 +13,7 @@
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30" heigth="30">
 </div>
 
-<h4>And others, including express, socket.io, MongoDB, SQLServer and MySql.</h4>
+<h4>And others, including express, socket.io, MongoDB, SQLServer and MySql. PHP.</h4>
 <br>
 <h3>Learning...</h3>
 <h4>Tensorflow.js</h4>
