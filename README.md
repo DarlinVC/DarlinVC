@@ -1,20 +1,38 @@
-<h2 align="center">Hi there 👋, i `m Darlin VC</h2>
-<h4 align="center">Full Stack Javascript Developer and software engineering student.</h4>
+# Welcome my friend, this is my readme! 🚀
 
-<h3>Skills</h3>
-<div style="display:flex; flex-direction: row;">
- <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="30" heigth="30">
- <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="30" heigth="30">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="30" heigth="30">
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" heigth="30">
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="30" heigth="30">
- <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" width="30" heigth="30">
- <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="30" heigth="30">
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30" heigth="30">
-</div>
+Hello, I'm **Darlin Vargas Cruz** 👨‍💻, a passionate **Back-end Developer** although I know front end too, i like build scalable software, implementing AI and automations.
 
-<h4>And others, including express, Nestjs, socket.io, MongoDB, SQLServer and MySql. PHP.</h4>
-<br>
-<h3>Learning...</h3>
-<h4>Tensorflow.js</h4>
-<h4>Advance English</h4>
+---
+
+---
+## 🌟 Featured Projects
+
+Explore my creative ventures and innovative projects on my [Portfolio](https://darlinvc.netlify.app).
+
+---
+## 🔗 Connect With Me
+
+Learn more about my professional journey and experience on my [LinkedIn](https://www.linkedin.com/in/darlin-vargas-cruz-573400262/).
+---
+
+## 🚀 SOME IMPORTANTS SKILLS
+
+### Back-end
+- **ASP.NET Core**
+- **Python:** 
+  - **FastAPI**
+  - **Flask**
+- **PHP:** 
+  - **Laravel**
+- **Node.js:**
+  - **Express.js**
+  - **NestJS**
+  - **Socket.io**
+
+### Front-end
+- **Angular**
+- **Astro**
+
+> **...and so much more!** My relentless curiosity and passion for technology drive me to continually expand my skill set. More info in my [Portfolio](https://darlinvc.netlify.app)
+
+
