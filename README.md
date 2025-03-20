@@ -31,6 +31,10 @@ Learn more about my professional journey and experience on my [LinkedIn](https:/
 - **Angular**
 - **Astro**
 
+### Databases
+- Relational DBs: MySQL, Postgresql, SQLServer, Oracle DB.
+- NoN-Relational DBs: MongoDB.
+
 > **...and so much more!** My relentless curiosity and passion for technology drive me to continually expand my skill set. More info in my [Portfolio](https://darlinvc.netlify.app)
 
 
