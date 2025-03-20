@@ -3,8 +3,6 @@
 Hello, I'm **Darlin Vargas Cruz** 👨‍💻, a passionate **Back-end Developer** although I know front end too, i like build scalable software, implementing AI and automations.
 
 ---
-
----
 ## 🌟 Featured Projects
 
 Explore my creative ventures and innovative projects on my [Portfolio](https://darlinvc.netlify.app).
